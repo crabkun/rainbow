@@ -9,7 +9,7 @@ let your console print colorful character （让golang支持在控制台输出�
 go get github.com/crabkun/rainbow
 ```
 ### Usage
-![test](http://crab.pub/rainbow.png)
+![test](http://crab.pub/rainbow1.png)
 ```go
 package main
 
@@ -30,7 +30,7 @@ func main(){
 	fmt.Println("This is red font and cyan background!")
 
 	rainbow.SetBackgroundDarkColor(rainbow.Cyan)
-	fmt.Println("This is dark red font and cyan background!")
+	fmt.Println("This is red font and dark cyan background!")
 
 	rainbow.SetFontDarkColor(rainbow.Red)
 	fmt.Println("This is dark red font and dark cyan background!")
