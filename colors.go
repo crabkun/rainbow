@@ -2,7 +2,7 @@ package rainbow
 type Color int
 const(
 	White Color=15
-	Yello Color=14
+	Yellow Color=14
 	Pink Color=13
 	Red Color=12
 	Cyan Color=11
