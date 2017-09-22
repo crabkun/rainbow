@@ -9,7 +9,7 @@ let your console print colorful character （让golang支持在控制台输出�
 go get github.com/crabkun/rainbow
 ```
 ### Usage
-![test](http://crab.pub/rainbow1.png)
+![test](https://raw.githubusercontent.com/crabkun/img/master/rainbow1.png)
 ```go
 package main
 
